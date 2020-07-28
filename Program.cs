@@ -10,7 +10,7 @@ namespace LanguageLearningSoftware
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello and welcome");
         }
     }
 }
